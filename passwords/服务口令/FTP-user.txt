@@ -1,0 +1,12 @@
+000
+111
+123
+aaa
+admin
+anonymous
+ftp
+root
+test
+user
+web
+www

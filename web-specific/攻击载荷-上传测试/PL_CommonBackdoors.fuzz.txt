@@ -1,0 +1,9 @@
+PerlWebShellbyRST-GHC.pl
+cgitelnet.pl
+cmd.pl
+dc.pl
+irc.pl
+list.pl
+pws.pl
+up.pl
+wewo.pl

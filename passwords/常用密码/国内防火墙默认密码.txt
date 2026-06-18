@@ -1,0 +1,74 @@
+------------------------------------------------------
+010-56632666
+192.168.0.1
+192.168.1.1
+51111端口        delanrecover
+Cisco
+H3C
+Huawei
+Juniper防火墙：
+admin        Admin@123
+admin/adminadmin
+eudemon        eudemon
+https://10.1.5.254:8889
+https://10.251.251.251
+https://10.254.254.254
+https://10.50.10.45
+https://10.50.10.45:8889
+https://192.168.1.101
+juniper
+netscreen        netscreen
+save 保存
+shterm/shterm
+system config reset
+test/123456
+安恒的明御防火墙
+登录地址:http://192.168.0.1
+登录地址:https://10.1.5.254:8889
+登录地址:https://192.168.0.1
+登录地址:https://192.168.1.1
+登录地址:https://192.168.1.254
+登录地址:https://192.168.1.254：8080
+迪普
+电脑端IP：10.50.10.44/255.255.255.0
+华为VPN：
+华为防火墙：
+基于console口登陆，用户名，密码跟web界面一致
+技术支持热线：4006108220
+技术支持热线：4006243900
+技术支持热线：4006306430
+技术支持热线：4008107766
+技术支持热线：8008105119
+联想网御防火墙，需要证书（最好用IE浏览器登录）
+绿盟IPS
+密码: weboper
+密码:Admin@123
+密码:admin
+密码:cisco
+密码:leadsec@7766、administrator、bane@7766
+密码:netscreen
+密码:talent
+密码:talent！23
+密码：admin
+密码：admin@123
+密码：bane@7766
+密码：firewall
+默认的管理账号为hillstone，密码为hillstone
+默认的用户名和密码（admin/admin_default)
+某堡垒机
+配置重启生效
+启明星辰
+清除配置
+山石
+深信服VPN：
+深信服防火墙（注安全设备管理地址不是唯一的）
+天融信的vpn
+天融信防火墙，不需要证书
+网神防火墙GE1口
+用户名: weboper
+用户名:admin
+用户名:netscreen
+用户名:superman
+用户名：admin
+遇到设备需要把旧设备配置备份下来，再倒入新设备
+账号：root  密码：mduadmin

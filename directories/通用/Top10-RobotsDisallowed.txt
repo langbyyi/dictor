@@ -1,0 +1,9 @@
+/
+/admin.php
+/admin/
+/api/
+/data/
+/install/
+/search/
+/template/
+/wp-admin/

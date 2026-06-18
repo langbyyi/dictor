@@ -1,0 +1,4 @@
+admin
+backup
+root
+rsync

@@ -1,0 +1,4 @@
+/invoker/JMXInvokerServlet
+/jmx-console
+/web-console
+/web-console/Invoker

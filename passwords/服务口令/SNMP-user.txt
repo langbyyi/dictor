@@ -1,0 +1,4 @@
+admin
+manager
+private
+public

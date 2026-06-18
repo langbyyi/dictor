@@ -1,0 +1,12 @@
+123456
+admin
+both
+j2deployer
+kdsxc
+manager
+ovwebusr
+owaspbwa
+role1
+root
+tomcat
+{user}

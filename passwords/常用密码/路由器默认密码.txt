@@ -1,0 +1,58 @@
+EcomED-802EG在IE输入192.168.1.1用户名和密码都为root
+GVC的DSL-802E/R3Ahttp://10.0.0.2username:adminpassword:epicrouter
+Password:12345
+TP-LINKTD-8800在IE输入192.168.1.1,用户名admin,密码为admin.
+UTStar的ut-300Rhttp://192.168.1.1 username:admin
+V3.2　rootroot
+V5.4　rootgrouter
+WST的ART18CXhttp://10.0.0.2username:adminpassword:conexant
+WST的RT1080http://192.168.0.1username:rootpassword:root
+broadmax的hsa300ahttp://192.168.0.1username:broadmax
+e-tek用户名:admin密码:12345
+etek-td的ADSL_T07L006.0http://192.168.1.1UserName:supervisor
+password:broadmax
+password:epicrouter
+password:utstar
+sunrise的DSL-802E_R3Ahttp://10.0.0.2username:admin
+sunrise的SR-DSL-AEhttp://192.168.1.1username:adminpassword:0000
+username:userpassword:password
+zyxel用户名:anonymous密码:1234
+阿尔卡特http://192.168.1.1一般没有密码
+艾玛701H192.168.1.110.0.0.2用户名：admin密码：epicrouter
+艾玛701g192.168.101.1192.168.0.1用户名：admin密码：admin
+北电用户名:anonymous密码:12345
+长虹ch-500Ehttp://192.168.1.1username:rootpassword:root
+大恒用户名：admin密码：admin
+大唐用户名：admin密码：1234
+大亚DB102http://192.168.1.1用户名：admin密码：dare
+东信Ea700http://192.168.1.1用户名：空密码：password
+泛德用户：admin密码：conexant
+合勤zyxel642telnet192.168.1.1密码1234
+亨威NSM500网速通IP:192.168.1.1 Username:root Password:root
+湖北邮通IP:10.0.0.2 Username:admin Password:epicrouter
+华硕http://192.168.1.1用户名：adsl密码：adsl1234
+华为SmartAXMT800初始IP是192.168.1.1用户名和密码都为admin
+科迈易通km300A-1http://192.168.1.1username:password:password
+科迈易通km300A-Ausername:rootoradminpassword:123456
+科迈易通km300A-Ghttp://192.168.1.1username:rootpassword:root
+普天：用户名：admin密码：dare
+全向QL168010.0.0.2，用户名admin密码是qxcomm1680，管理员密码是qxcommsupport
+全向QL168810.0.0.2，用户名admin；密码为qxcomm1688
+全向QL1880192.168.1.1，用户名root密码是root
+全向qxcomm1680http://192.168.1.1用户：qxcomm1680密码:qxcomm1680
+全向qxcomm1688http://192.168.1.1高端设置密码是：qxcommsuport
+全向：用户名：root密码：root
+神州数码/华硕：用户名：adsl密码：adsl1234
+神州数码6010RA在IE输入192.168.1.1　用户名ADSL密码为ADSL1234
+实达
+实达2110EHROUTER 192.168.10.1 用户名：user密码：password
+实达ADSL2110-EHaddress:192.168.10.1user:adminpwd:starnetadsl
+斯威特用户名：root密码：root
+台湾突破EA110RS232:38400[url]http://192.168.7.1username:SLpsw:SL
+同维DSL699Ehttp://192.168.1.1用户名：ROOT密码为：ROOT
+伊泰克http://192.168.1.1用户名：supervisor密码：12345
+用户名：SZIM 密码：SZIM
+用户名：root密码：grouter
+用户名：user密码：user
+中兴用户名：adsl密码：adsl831
+重庆普天CPADSL03http://192.168.1.1username:rootpassword:root

